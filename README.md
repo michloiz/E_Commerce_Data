@@ -32,8 +32,6 @@ This project analyzes an e-commerce dataset (from Kaggle) to uncover key busines
 |------|-------------|
 | `ECommerce_Data.Rmd` | Full R Markdown analysis |
 | `ECommerce_Data.pdf` | Rendered report with plots |
-| `Customer_Number_per_country.png` | Tableau visual on customer distribution |
-| `Revenue_Per_Country.png` | Tableau visual on country-wise revenue |
 
 ---
 
