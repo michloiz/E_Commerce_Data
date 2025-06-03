@@ -1,4 +1,4 @@
-#E-Commerce Data Analysis Report
+# E-Commerce Data Analysis Report
 
 **Author:** Michalis Loizos  
 **Date:** June 2025  
@@ -26,7 +26,7 @@ This project analyzes an e-commerce dataset (from Kaggle) to uncover key busines
 
 
 
-## 📁 Files Included
+## Files Included
 
 | File | Description |
 |------|-------------|
@@ -37,9 +37,9 @@ This project analyzes an e-commerce dataset (from Kaggle) to uncover key busines
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/ecommerce-data-analysis.git
-   cd ecommerce-data-analysis
+  
