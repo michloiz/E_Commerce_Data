@@ -9,7 +9,7 @@ This project analyzes an e-commerce dataset  to uncover key business insights re
 
 
 ## Project Overview
-- **Dataset**: 541.909390 Sales Data
+- **Dataset**: 541.909 Sales Data
 - **Tools**: BigQuery SQL, R (tidyverse, ggplot2,lubridate),  Tableau.
 - **Analysis**:
 - Clean and pre-process transactional e-commerce data
