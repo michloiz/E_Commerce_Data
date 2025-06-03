@@ -28,7 +28,7 @@ This project analyzes an e-commerce dataset  to uncover key business insights re
 
 
 ## How to Run
-1. Clone this repo: [`git clone https://github.com/michloiz/Hotel_Booking_Analysis.git`](https://github.com/yourusername/ecommerce-data-analysis.git)
+1. Clone this repo: https://github.com/michloiz/ecommerce-data-analysis.git
 2. Open `ECommerce_Data.Rmd` in RStudio and knit to PDF/HTML.
 
 *Dataset not included due to size, but it can be accessed from here: https://www.kaggle.com/datasets/carrie1/ecommerce-data
