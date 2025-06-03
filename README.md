@@ -17,10 +17,10 @@ This project analyzes an e-commerce dataset (from Kaggle) to uncover key busines
 
 ## Tools Used
 
-- **BigQuery SQL** — Data filtering and aggregation
+- **Big Query SQL** — Data filtering and aggregation
 - **R** — Data wrangling & visualization (`tidyverse`, `ggplot2`, `lubridate`)
 - **Tableau** — Interactive charts (country-level revenue & customers)
-- **R Markdown  — Report generation (PDF output)
+- **R Markdown**  — Report generation (PDF output)
 
 ---
 
@@ -28,10 +28,8 @@ This project analyzes an e-commerce dataset (from Kaggle) to uncover key busines
 
 ## Files Included
 
-| File | Description |
-|------|-------------|
-| `ECommerce_Data.Rmd` | Full R Markdown analysis |
-| `ECommerce_Data.pdf` | Rendered report with plots |
+`ECommerce_Data.Rmd`- Full R Markdown analysis 
+`ECommerce_Data.pdf`- Rendered report with plots
 
 ---
 
