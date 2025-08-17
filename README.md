@@ -37,7 +37,7 @@ Below are a few insights visualized during the analysis:
 ![Monthly Revenue Trends](Figures/Hourly_Revenue_Trend.png)
 
 ### Hourly Revenue Trends
-![Hourly Revenue Trends](Figures/Hourly_Revenue_Trends.png)
+![Hourly Revenue Trends](Figures/Monthly_Revenue_Trend.png)
 
 ### Customer Distribution by Country
 ![Customer Distribution by Country](Figures/Customer_Number_per_country.png)
