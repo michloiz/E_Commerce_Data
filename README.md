@@ -45,7 +45,7 @@ Below are a few insights visualized during the analysis:
 ### Revenue by Country
 ![Revenue by Country](Figures/Revenue_Per_Country.png)
 
-More details are available in the [full report](ECommerce_Data.pdf).
+More details are available in the [full report](E_Commerce_Report.pdf).
 
 ---
 
