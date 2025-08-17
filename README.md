@@ -34,7 +34,7 @@ This independent project analyzes 541,909 sales transactions from an e-commerce 
 Below are a few insights visualized during the analysis:
 
 ### Monthly Revenue Trends
-![Monthly Revenue Trends](Figures/Monthly_Revenue_Trends.png)
+![Monthly Revenue Trends](Figures/Hourly_Revenue_Trend.png)
 
 ### Hourly Revenue Trends
 ![Hourly Revenue Trends](Figures/Hourly_Revenue_Trends.png)
